@@ -29,11 +29,11 @@ To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
 ## Program:
 ```
-/*
 Program to implement Dijkstra's Algorithm 
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
+```
+```
 #include<stdio.h>
 #define INFINITY 9999
 #define MAX 10
