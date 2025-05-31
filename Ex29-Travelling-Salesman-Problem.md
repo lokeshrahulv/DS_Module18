@@ -34,11 +34,11 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 
 ## Program:
 ```
-/*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
+```
+```
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
 
